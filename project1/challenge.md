@@ -15,11 +15,26 @@ The one exception is with something completely unknown. Some new api, technology
 
 Hangman. We are going to start with a very basic version of hangman.
 
-There is a word list to choose from.
-The program randomly picks a word to use.
-It then shows the user a list of '' characters, one per character of the hidden word.
-Then it prompts the user for a letter, if the letter is in word, it changes the '' to that letter. Keep in mind that the letter could be in the word multiple times.
-Repeat printing the current state of the word, and prompting the user until the word is guessed.
+
+```python
+import random
+
+words = ["Super","Awesome","Random"]
+
+#random.choice(words)
+#raw_input
+
+```
+
+* The program randomly picks a word to use out of words.
+
+* It then shows the user a string of '_' characters, one per character of the hidden word.
+
+* It prompts the user for a letter, if the letter is in word, it changes the '_' to that letter.
+
+Keep in mind that the letter could be in the word multiple times.
+
+*Repeat printing the current state of the word, and prompting the user until the word is guessed.
 
 Example Run:
 _ _ _ 
@@ -35,19 +50,10 @@ What are you thinking about before you begin?
 
 
 What data structures are you going to use? 
+
 How will the code be broken up? Is all in main, are there multiple functions? 
+
 Would be creating a new class or classes be useful?
-
-```python
-import random
-
-words = ["Super","Awesome","Random"]
-
-#random.choice(words)
-#raw_input
-
-```
-
 
 Once you feel ready, code it up.
 
