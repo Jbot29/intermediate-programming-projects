@@ -71,8 +71,9 @@ Add the ability to display the hangman with the correct number of appendages bas
 Example Run:
 
 >\_ \_ \_
->
+> 
 > Enter letter:p
+
 > O
 > \_ \_ \_
 >
@@ -89,9 +90,7 @@ Example Run:
 Until
 
  O
-
 /|\
-
 / \
 
 Draw from top to bottom, and left to right.
