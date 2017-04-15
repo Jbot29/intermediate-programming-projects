@@ -70,18 +70,18 @@ Notice how long it takes, notice how your ideas did or didn't work. Do you like 
 Add the ability to display the hangman with the correct number of appendages based on the number incorrect. When the hangman is completely drawn the game is lost.
 
 Example Run:
-
->\_ \_ \_
+```
+>_ _ _
 > 
 > Enter letter:p
 
 > O
-> \_ \_ \_
+> _ _ _
 >
 >Enter letter:z
 > O
 >/
->\_ \_ \_
+>_ _ _
 >
 >Enter letter:x
 > O
@@ -93,6 +93,7 @@ Until
  O
 /|\
 / \
+```
 
 Draw from top to bottom, and left to right.
 
