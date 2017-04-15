@@ -39,9 +39,12 @@ Keep in mind that the letter could be in the word multiple times.
 Example Run:
 
 > _ _ _ 
-> Enter letter:p 
-> P _ p 
-> Enter letter:i 
+> Enter letter:p
+>
+> P _ p
+> 
+> Enter letter:i
+> 
 > Word was: Pip 
 > Good Job
 
