@@ -71,21 +71,21 @@ Add the ability to display the hangman with the correct number of appendages bas
 
 Example Run:
 ```
->_ _ _
-> 
-> Enter letter:p
+_ _ _
+ 
+Enter letter:p
 
-> O
-> _ _ _
->
->Enter letter:z
-> O
->/
->_ _ _
->
->Enter letter:x
-> O
->/|
+ O
+_ _ _
+
+Enter letter:z
+ O
+/
+_ _ _
+
+Enter letter:x
+ O
+/|
 
 
 Until
