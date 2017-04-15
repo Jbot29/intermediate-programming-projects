@@ -37,7 +37,7 @@ Keep in mind that the letter could be in the word multiple times.
 *Repeat printing the current state of the word, and prompting the user until the word is guessed.
 
 Example Run:
-
+```
 > \_ \_ \_ 
 > Enter letter:p
 >
@@ -47,6 +47,7 @@ Example Run:
 > 
 > Word was: Pip 
 > Good Job
+```
 
 The goal of this exercise is to pseudo code, or even fully code this out, without using the computer. You can use pen and paper, or as you get better most of it can be held in your head.
 
