@@ -12,6 +12,7 @@ help - list commands to user
 
 The room layout looks like
 
+```
  ___    ___
 |   |  | K |
 |    -     |
@@ -22,6 +23,7 @@ The room layout looks like
 |_ _|
   |
 Outside
+```
 
 The user starts in at S. There is a door to the south, but it is locked. They can not leave until
 they navigate to the third room and take the key, navigate back, and only then they can exit through the door.
