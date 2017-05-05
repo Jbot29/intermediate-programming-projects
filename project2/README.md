@@ -47,7 +47,6 @@ Current room: Another smaller dark room
 Command:look north
 You see a shiny key lying on the floor
 Command:take key
-take key
 Command:go west
 Current room: Another dark room
 Command:go south
