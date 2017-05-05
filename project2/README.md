@@ -5,8 +5,11 @@ Lets make a simple text based game. The goal of the game is to escape from a 3 r
 The user has the following commands
 
 look <direction> - look in a direction north|south|east|west
+
 go <direction> - go into a direction. If that direction is another room, move into that room
+
 take <object> - if an object is found, the user can take that object.
+
 help - list commands to user
 
 
