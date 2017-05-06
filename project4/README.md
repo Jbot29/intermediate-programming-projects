@@ -7,6 +7,7 @@ On a unix based system the root is /
 
 There can then be directories and files underneath each path.
 
+```
 /
 users/
      steve/
@@ -17,6 +18,7 @@ lib/
    shared/
          man.so
 
+```
 
 ## Part one
 
