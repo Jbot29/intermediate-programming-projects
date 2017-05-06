@@ -29,9 +29,9 @@ We are going to build a simple terminal shell emulator that has an in memory fil
 * When the user starts the FS already has a basic structure with directories and files. You can
 use the example above or whatever. 
 
-ls
-pwd
-cd <name>|..|.
+* ls - list all files
+* pwd - shows current directory
+* cd <name>|..|. - change directory
 
 
 
