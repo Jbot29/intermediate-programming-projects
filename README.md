@@ -9,5 +9,6 @@ We can look at how masters in other fields get better, musicians, artists. What 
 
 One they practice a lot, but random playing isn't enough, it has to be challenging, it has to push you. We need Deliberate Practice.
 
-https://en.wikipedia.org/wiki/Practice_(learning_method)#Deliberate_practice
+http://www.jeremyschwartz.io/blog/challenging-constraints/
+
 
