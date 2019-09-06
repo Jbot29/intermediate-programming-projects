@@ -34,4 +34,8 @@ Build an in memory filesystem and terminal emulator.
 
 Build a simple Reverse Polish Notation calculator.
 
+## Project 6
+
+Build a time based key value store.
+
 
