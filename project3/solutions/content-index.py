@@ -22,7 +22,7 @@ def read_data(filename):
         return f.read()
 
 def strip_punctuation(token):
-    """strip out punctuation from a toke"""
+    """strip out punctuation from a token"""
     return ''.join(ch for ch in token if ch not in string.punctuation)
 
 def index_file(filename):
