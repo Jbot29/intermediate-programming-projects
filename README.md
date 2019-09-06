@@ -9,7 +9,7 @@ We can look at how masters in other fields get better, musicians, artists. What 
 
 One they practice a lot, but random playing isn't enough, it has to be challenging, it has to push you. We need Deliberate Practice.
 
-http://www.jeremyschwartz.io/blog/challenging-constraints/
+https://howtosoftware.net
 
 This is an ongoing set of projects that can hopefully help intermediate programmers practice different areas of coding,
 in an attempt to develop as a programmer.
