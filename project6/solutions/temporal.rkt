@@ -23,7 +23,6 @@
   (and (datetime>=? date (date-range-start-date dr))
        (datetime<=? date (date-range-end-date dr))))
 
-;;reduce to one function? pass in comparision functions and make curry
 (define (compare? dr1 dr2 fn1 fn2)
   (and
    (fn1 (date-range-start-date dr1) (date-range-start-date dr2))
